@@ -1,6 +1,6 @@
 ## About Me:
 
-I like cute things and keyboards.
-My Library: https://secure-vault.gitbook.io/gitbook/
+While technology was created to bring more people together, while do we in this society still feel so disconnected from each other?
 
-I am currently your typical SOC analyst. Once a tech, always a tech. Old habbits
+## Favourite Quote
+You know what they say, old habits, they die hard...
